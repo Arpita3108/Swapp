@@ -1,6 +1,6 @@
 import sys
-a = int(sys.argv[1])
-b = int(sys.argv[2])
+a = 10
+b=100
 print("\nBefore swapping:")
 print("a =",a)
 print("b =",b)
