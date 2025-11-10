@@ -1,5 +1,5 @@
-a = int(input("Enter first number:"))
-b = int(input("Enter second number:"))
+a = int(sys.argv[1])
+b = int(sys.argv[1])
 print("\nBefore swapping:")
 print("a =",a)
 print("b =",b)
